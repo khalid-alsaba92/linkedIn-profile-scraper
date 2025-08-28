@@ -24,8 +24,7 @@ curl -G "https://api.scrayz.com/api/users/scrape-linkedin" \
   -H "accept: application/json"
 
 
-Example: Python
-
+### Example: Python
 import requests
 
 url = "https://api.scrayz.com/api/users/scrape-linkedin"
