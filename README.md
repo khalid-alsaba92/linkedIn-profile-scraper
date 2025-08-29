@@ -21,7 +21,7 @@ Super-fast API + Batch jobs = LinkedIn data at scale 🚀
 
 ## 🚀 API Quickstart
 
-📖 Full reference: [scrayz.com/docs](https://scrayz.com/docs)
+📖 Full reference: [scrayz.com/docs](https://scrayz.com)
 
 ### Base URL
 ~~~
